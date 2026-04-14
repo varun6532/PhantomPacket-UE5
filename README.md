@@ -1,4 +1,4 @@
-# 👻 Phantom Packet (UE5)
+#  Phantom Packet (UE5)
 
 A visual demonstration of client-side prediction and server reconciliation in multiplayer games.
 
