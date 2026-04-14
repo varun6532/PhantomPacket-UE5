@@ -4,13 +4,13 @@ A visual demonstration of client-side prediction and server reconciliation in mu
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 ![Demo](Media/demo.gif)
 
 ---
 
-## 🧠 The Problem
+##  The Problem
 
 In multiplayer games, you may feel:
 
@@ -51,7 +51,7 @@ The client is corrected to match the server.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Client moves instantly (prediction)
 2. Server processes real position
@@ -61,14 +61,14 @@ The client is corrected to match the server.
 
 ---
 
-## 🧮 Key Insight
+##  Key Insight
 
 - Error > 0 → Phantom active  
 - Error ≈ 0 → Synced  
 
 ---
 
-## 🎮 Inspired By
+##  Inspired By
 
 Observed behavior in fast-paced games like Valorant:
 - dashing but still dying  
@@ -76,7 +76,7 @@ Observed behavior in fast-paced games like Valorant:
 
 ---
 
-## 🛠 Tech
+##  Tech
 
 - Unreal Engine 5  
 - Blueprint-based implementation  
@@ -85,7 +85,7 @@ Observed behavior in fast-paced games like Valorant:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 To understand multiplayer networking systems deeply  
 instead of treating them as a black box.
