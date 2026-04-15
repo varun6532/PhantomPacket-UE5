@@ -92,7 +92,7 @@ instead of treating them as a black box.
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - Phantom trails (visual history of prediction)
 - Error visualization in world space
